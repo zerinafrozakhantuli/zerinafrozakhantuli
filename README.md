@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zerinafrozakhantuli
+- 👋 Hi, I’m Zerin Afroza Khan
 - 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning PHP & Laravel
 - 💞️ I’m looking to collaborate on ...
